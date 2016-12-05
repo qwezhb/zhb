@@ -75,7 +75,7 @@ $('.globalcontent dl').on('click','dd',function(){
 			s.html("确认删除");
 			$('.layui-layer-btn0').append(s);
                      $('.layui-layer-btn0').html("确认");
-		$('.layui-layer-btn').css({"color":"red","font-family":"宋体","width":"100%","float":"right","margin-right":"0.2rem"，"background":"grey"});
+		$('.layui-layer-btn').css({"color":"red","font-family":"宋体","width":"100%","float":"right","margin-right":"0.2rem","background":"grey"});
 		$('.layui-layer-btn0').css({"width":"100%","color":"red","text-align":"center","background":"grey"});
 	   var mobilewidth=screen.width;//获取手机屏幕的可视宽度
        var mobileheight=screen.height;//获取屏幕的可是高度
