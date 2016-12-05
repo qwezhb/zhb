@@ -71,7 +71,7 @@ $('.globalcontent dl').on('click','dd',function(){
             skin: 'layer-ext-moon' //该皮肤由layer.seaning.com友情扩展。关于皮肤的扩展规则，去这里查阅
        }) 
 		$('.layui-layer-dialog').css("width","5.5rem");
-	$('.layui-layer-btn .layui-layer-btn0').css({"font-size":"1rem","color": "red"});
+	$('.layui-layer-btn .layui-layer-btn0').css({"font-size":"0.4rem","color": "red"});
 	   var mobilewidth=screen.width;//获取手机屏幕的可视宽度
        var mobileheight=screen.height;//获取屏幕的可是高度
        var layerwidth=$('.layer-ext-moon').width();//获取弹层的宽度 
