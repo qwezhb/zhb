@@ -39,10 +39,8 @@ font-family: "微软雅黑"; color: #373737; margin: 0 auto;position: static;}
 .main_note a{display: block;height: 100%;line-height: 0.8rem;font-size: 0.29rem;color: white;text-align: center;}
 .main_note a:hover{background: skyblue;}
 .main_note a:visited{color: #fff;}
-.main_note_title{    height: 0.8rem;
-    background: grey;
-    margin-top: 0.2rem;}
-.main_note_title a{text-align: center;}
+.main_note_title{height: 0.8rem;background: grey;margin-top: 0.2rem;}
+.main_note_title a{text-align:center;}
 .main_note li{position: relative;width: 1.4rem;float: left;background: #a3a5a6;margin: 0.1rem;line-height: 1rem;color: white;}
 .main_note b{width: 0.45rem;height: 0.45rem;position: absolute;left: 0rem;top: 0.15rem;}
 .main_note i{font-style: normal;}
