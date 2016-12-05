@@ -80,6 +80,6 @@ $('.globalcontent dl').on('click','dd',function(){
        var layerheight=$('.layer-ext-moon').height();//获取弹层的高度
        var sjwidth=(mobilewidth-layerwidth)/2;
        var sjheight=(mobileheight-layerheight)/2;
-        $('.layer-ext-moon').css({'left':sjwidth+"px",'top':sjheight+"px"});//是弹层放在屏幕正中间
+        $('.layer-ext-moon').css('left',sjwidth+"px");//是弹层放在屏幕正中间
 		}
 		
