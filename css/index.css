@@ -30,10 +30,10 @@ font-family: "微软雅黑"; color: #373737; margin: 0 auto;position: static;}
 .main_top{}
 .main_top h6{margin-top: 10px;font-size: 0.30rem;color: grey;}
 .main_js{font-size: 0.26rem;margin-top: 0.2rem;padding-left: 0.1rem;}
-.main_js a{color: #10a6ff;font-style: normal;}
+.main_js a{color:#10a6ff;font-style: normal;}
 .main_js b{color: grey;}
 .main_js a:hover{text-decoration: underline;}
-.main_js a:visited{color: #10a6ff;}
+.main_js a:visited{color:#10a6ff;}
 .main_js b:hover{text-decoration: underline;}
 .main_note{background: #fff;}
 .main_note ul{width: 6.4rem;margin: 0 auto;background: #fff;margin-top: 0.1rem;}
