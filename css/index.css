@@ -38,7 +38,7 @@ font-family: "微软雅黑"; color: #373737; margin: 0 auto;position: static;}
 .main_note ul{width: 6.4rem;margin: 0 auto;background: #fff;margin-top: 0.1rem;}
 .main_note a{display: block;height: 100%;line-height: 0.8rem;font-size: 0.29rem;color: white;text-align: center;}
 .main_note a:hover{background: skyblue;}
-.main_note a:visited{background: #fff;}
+.main_note a:visited{color: #fff;}
 .main_note_title{    height: 0.8rem;
     background: grey;
     margin-top: 0.2rem;}
